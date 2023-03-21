@@ -1,0 +1,3 @@
+./Tests/*/Output/*.html
+./Tests/*/Output/*.xml
+./Tests/*/Output/*.png
